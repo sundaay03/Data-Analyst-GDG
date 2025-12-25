@@ -1,3 +1,5 @@
+# Dibuat oleh Sandi Riandi - Universitas Sultan Ageng Tirtayasa
+
 import numpy as np
 
 def tambah_nilai():
@@ -80,5 +82,6 @@ def main():
                 break
             case _:
                 print("Pilihan tidak valid. Silakan coba lagi.")
+
 
 main()
